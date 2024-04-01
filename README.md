@@ -2,23 +2,23 @@
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://i.imgur.com/RCMg1aL.jpg">
+<img alt=🪄🍪 height="300" src="https://imgur.com/t9DtZcf.jpg">
 
 </center>
 
-<h1 align="center">OREO BOT</h1>
+<h1 align="center">ABRO BOT</h1>
 
 
 
 <p align="center">
 
- <a href="#"><img title="OREO-BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="ABRO-BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/shizothetechie"><img title="Author" src="https://img.shields.io/badge/AUTHOR-shizothetechie-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Temitopeareo"><img title="Author" src="https://img.shields.io/badge/AUTHOR-shizothetechie-green.svg?style=for-the-badge&logo=github"></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=shizothetechie&color=brightgreen" />
 
@@ -28,20 +28,20 @@
 
 ## ```Connect With Me```
 
-<a href="https://api.whatsapp.com/send?phone=919637987574&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://instagram.com/shizo_the_techie"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=2348100151048&text=hello+abro+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 
 ## ```Bot Support Groups```
 
 <a href="https://chat.whatsapp.com/DWqdPuQ0yFkKyf1SzZ0k9Y"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-<a href="https://whatsapp.com/channel/0029VaCkzkr3wtb1uYWiRz2o"><img src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 
 
 
 
----------
+
+-----------------------------------------------
 
 
 
@@ -65,7 +65,7 @@
 1. Customize the Given Codes according to Your System 🧑‍💻
 2. We are not responsible for any kind of Your loss 🤧
 3. Do not recode or modify obfuscated or encrypted codes to avoid errors & bugs 🐛
-4. Atleast Mention Name "Shizo The Techie" to appreciate my work 🥺
+4. Atleast Mention Name "abrotech" to appreciate my work 🥺
 5. Do not sell ❌
 
 ---------
@@ -79,8 +79,8 @@
 
 # 🔥 MAIN SETUP
 
-1. Fork The OREO-BOT Repository 
-<a href="https://github.com/shizothetechie/OREO-BOT/fork"><img title="OREO BOT" src="https://img.shields.io/badge/FORK OREO BOT-h?color=orange&style=for-the-badge&logo=stackshare"></a>
+1. Fork The ABRO-BOT Repository 
+<a href="https://github.com/Temitopeareo/Abro-WAbot-V1/fork"><img title="ABRO BOT" src="https://img.shields.io/badge/FORK OREO BOT-h?color=orange&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-## 🪄🍪🔥 INSTALL OREO-BOT ON TERMINAL
+## 🪄🍪🔥 INSTALL ABRO-BOT ON TERMINAL
 
 ##### Requirements for Terminal Setup
 ```
@@ -125,7 +125,7 @@ apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg instal
 cd oreo-bot && node .
 ```
 
-## 🥵🔥 INSTALL OREO-BOT ON HEROKU (EASIEST WAY)
+## 🥵🔥 INSTALL ABRO-BOT ON HEROKU (EASIEST WAY)
 
 ##### Requirements For 1 click Setup 
 
@@ -140,7 +140,7 @@ cd oreo-bot && node .
  <a href="https://youtube.com/shorts/-xyT0ib8fis?si=Bpj6soGa7Y39LCKi"> View Tutorial</a><br>
 
 ◉ Deploy Direct on Heroku
-<br> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy-oreobot.onrender.com/)
+<br> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Temitopeareo/Abro-WAbot-V1/)
 
 
 
@@ -154,9 +154,9 @@ cd oreo-bot && node .
 
 
 ## `Main Dev` 
-<a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png" width="100" height="100" alt="ShizoDevs"/></a>
+<a href="https://github.com/Temitopeareo"><img src="https://github.com/Temitopeareo.png" width="100" height="100" alt="ShizoDevs"/></a>
   
-`OREO-BOT - By Shizo The Techie`
+`ABRO-BOT - By Abrotech`
 
 ### CONTRIBUTORS
 <a href="https://github.com/dev-shizo"><img src="https://github.com/dev-shizo.png" width="85" height="85" alt="Shizo Devs"/></a>
