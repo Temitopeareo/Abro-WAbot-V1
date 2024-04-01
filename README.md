@@ -1,7 +1,7 @@
 > **Warning**: Do not sell this script.
 
 <center>
-<h1 align="center">OREO BOT</h1>
+<h1 align="center">_*ABRO BOT*_</h1>
 <img alt=🪄🍪 height="300" src="https://imgur.com/t9DtZcf.jpg">
 </center>
 
