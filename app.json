@@ -1,9 +1,9 @@
 {
-  "name": "ShizoBot",
+  "name": "AbroBot",
   "description": "WhatsApp Bot Base using Baileys. Written in javascript",
   "keywords": [
     "whatsapp bot",
-    "ShizoBot",
+    "AbroBot",
     "WaBot",
     "Termux-WaBot",
     "WaBot-Base"
@@ -45,7 +45,7 @@
       "value": ""
     },
 "MAKER": {
-      "description": "Maker Text that replace MADE WITH ❤️ BY OREO-BOT",
+      "description": "Maker Text that replace MADE WITH ❤️ BY ABRO-BOT",
       "required": false,
       "value": ""
     }
